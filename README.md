@@ -1,6 +1,6 @@
 # Python Learning Journey 🐍
 Hi, I'm Madhav Bansal.
-I am a Class 9th student learning python step by step.
+I am a Class 10th student learning python step by step.
 ## What this repo contains 
 - Beginner python programs
 - Logic practice
