@@ -128,8 +128,7 @@ Python-learning
 
 **Author**
 
-Madhav Bansal
-Class 9 Student | Learning Python & Electronics
+Madhav Bansal Student Developer| Learning Python & Electronics
 Aspiring Developer & Inventor
 
 GitHub: https://github.com/madhavbansal-dev
