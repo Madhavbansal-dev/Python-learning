@@ -58,6 +58,7 @@ class PDF:
 try:
     pdfs=[]
     path=input(r"ENTER THE EXACT PATH OF YOUR PDF FILES: ")
+    path=path.strip()
     hmp=int(input("\nHOW MANY PDF's YOU HAVE: "))
     for i in range(hmp):
         pdf=str(input("\nENTER THE EXACT NAME OF PDF WITH .pdf: "))
